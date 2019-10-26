@@ -1,3 +1,5 @@
+
+#python
 count = {}
 print("Enter a string")
 st = input()
