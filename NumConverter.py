@@ -1,4 +1,4 @@
-print("Enter an integer in decimal form")
+print("Enter an integer in its decimal form")
 dec = int(input())
 print("Enter 1/2/3: 1.Binary , 2.Octal , 3.Hexadecimal")
 choice=input()
